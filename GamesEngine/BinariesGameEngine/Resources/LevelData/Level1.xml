@@ -1,0 +1,482 @@
+<?xml version="1.0"?>
+<LEVEL>
+    <VERSION>1</VERSION>
+    <GAMEOBJECTS>
+        <OBJECT>
+            <MOVESTATE>DYNAMIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>PLAYER</OBJECTTYPE>
+            <OBJECTMASS>40</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="100" AXIS-Y="10" AXIS-Z="-8"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="0" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>Character/FloutyMan.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="100" AXIS-Y="-10" AXIS-Z="20"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>BigIsland.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-7" AXIS-Z="0"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-7" AXIS-Z="0"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-7" AXIS-Z="14"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-7" AXIS-Z="14"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-7" AXIS-Z="28"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-7" AXIS-Z="28"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-7" AXIS-Z="43"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-7" AXIS-Z="43"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-7" AXIS-Z="-13"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-7" AXIS-Z="-13"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="93" AXIS-Y="-7" AXIS-Z="-20"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-3.1415927" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="107" AXIS-Y="-7" AXIS-Z="-20"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="3.1415927" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="100" AXIS-Y="-13" AXIS-Z="150"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>BigIsland.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="100" AXIS-Y="-7" AXIS-Z="320"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>BigIsland.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="105" AXIS-Y="-10" AXIS-Z="120"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>JumpFence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="96" AXIS-Y="-9" AXIS-Z="160"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>JumpFence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="103" AXIS-Y="0" AXIS-Z="360"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>Finish.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-3" AXIS-Z="340"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-3" AXIS-Z="320"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-3" AXIS-Z="300"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-3" AXIS-Z="340"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-3" AXIS-Z="320"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-3" AXIS-Z="300"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-10" AXIS-Z="160"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-10" AXIS-Z="140"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="114" AXIS-Y="-10" AXIS-Z="120"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-10" AXIS-Z="160"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-10" AXIS-Z="140"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>TRUE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="86" AXIS-Y="-10" AXIS-Z="120"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="-1.5707964" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>fence.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>FALSE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="40" AXIS-Y="0" AXIS-Z="300"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="0" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>BaloonBase.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>FALSE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="40" AXIS-Y="100" AXIS-Z="300"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="0" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>BaloonTop.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+        <OBJECT>
+            <MOVESTATE>STATIC</MOVESTATE>
+            <ACTIVE>TRUE</ACTIVE>
+            <OBJECTTYPE>COMMON</OBJECTTYPE>
+            <OBJECTMASS>0</OBJECTMASS>
+            <PHYSICSSTATE>FALSE</PHYSICSSTATE>
+            <TRANSFORMS>
+                <TRANSFORM-POSITION AXIS-X="61" AXIS-Y="100" AXIS-Z="264"/>
+                <TRANSFORM-ROTATION AXIS-X="0" AXIS-Y="3.6651914" AXIS-Z="0"/>
+                <TRANSFORM-SCALE AXIS-X="1" AXIS-Y="1" AXIS-Z="1"/>
+            </TRANSFORMS>
+            <FILENAME>BaloonText.obj</FILENAME>
+            <COLOUR R="254.99745" G="255" B="254.99792"/>
+        </OBJECT>
+    </GAMEOBJECTS>
+</LEVEL>
